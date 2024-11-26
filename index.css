@@ -86,7 +86,7 @@ i:hover {
     background-size: contain;
   }
   .card {
-    width: 75vw;
+    width: 50vw;
   }
   .wrapper {
     display: grid;
