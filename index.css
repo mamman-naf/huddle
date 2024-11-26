@@ -86,7 +86,7 @@ i:hover {
     background-size: contain;
   }
   .card {
-    width: 85vw;
+    width: 75vw;
   }
   .wrapper {
     display: grid;
@@ -97,6 +97,9 @@ i:hover {
     text-align: left;
     margin-top: 5rem;
     width: 35rem;
+  }
+  h1{
+    font-size: 3rem;
   }
   .mockups {
     width: 50rem;
