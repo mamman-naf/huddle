@@ -74,6 +74,7 @@ i {
   border-radius: 50%;
   font-size: 1.5rem;
   gap: 10px;
+  margin-top: 5rem;
 }
 i:hover {
   color: var(--Soft-Magenta);
@@ -85,13 +86,14 @@ i:hover {
     background-image: url(bg-desktop.svg);
     background-size: contain;
   }
-  .card {
+  /* .card {
     width: 50vw;
-  }
+  } */
   .wrapper {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 2rem;
+    margin-right: 20rem;
   }
   .txt {
     text-align: left;
@@ -102,7 +104,7 @@ i:hover {
     font-size: 3rem;
   }
   .mockups {
-    width: 20rem;
+    width: 30rem;
   }
   .socials {
     float: right;
